@@ -3,8 +3,8 @@
   ### ⚡ GitHub Stats
   
   <div><br>
-    <img align="center" width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasespassini&theme=tokyonight&show_icons=true">
-    <img align="center" width="45%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasespassini&layout=compact&theme=tokyonight&exclude_repo=formacao-nodejs&langs_count=6">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasespassini&theme=tokyonight&show_icons=true">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasespassini&layout=compact&theme=tokyonight&exclude_repo=formacao-nodejs&langs_count=6">
   </div>
   <br>
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasespassini&theme=tokyonight">
