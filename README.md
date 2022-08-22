@@ -1,20 +1,26 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasespassini&theme=tokyonight)](https://github.com/lucasespassini/github-readme-stats)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasespassini&layout=compact&theme=tokyonight&exclude_repo=formacao-nodejs&langs_count=6)](https://github.com/lucasespassini/github-readme-stats)
+  ### ⚡ GitHub Stats  
+  <div><br>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasespassini&theme=tokyonight&show_icons=true">
+    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasespassini&theme=tokyonight">
+  </div>
+  <br>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasespassini&layout=compact&theme=tokyonight&exclude_repo=formacao-nodejs&langs_count=6">
+  
+  ### 🚀💻 Technologies & Tools
+ 
+  <div style="display: inline_block"><br>
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
 
-![snake gif](https://github.com/lucasespassini/lucasespassini/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/lucasespassini/lucasespassini/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**lucasespassini/lucasespassini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
