@@ -11,7 +11,7 @@
   
   ### 💻 Technologies & Tools
  
-  <div style="display: inline_block"><br>
+  <div style="display: flex; justify-content: center;"><br>
     <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
