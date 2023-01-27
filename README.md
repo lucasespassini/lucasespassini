@@ -4,7 +4,7 @@
   
   <div><br>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasespassini&theme=tokyonight&show_icons=true">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasespassini&layout=compact&theme=tokyonight&exclude_repo=formacao-nodejs&langs_count=6&hide=cpp,java,ejs">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasespassini&layout=compact&theme=tokyonight&exclude_repo=formacao-nodejs&langs_count=6&hide=c++,ejs">
   </div>
   <br>
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasespassini&theme=tokyonight">
