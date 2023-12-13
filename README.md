@@ -29,7 +29,5 @@
   ![Alt text](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
   ![Alt text](https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white)
   ![Alt text](https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)
-  ![Alt text](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
-  ![Alt text](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
   
 </div>
